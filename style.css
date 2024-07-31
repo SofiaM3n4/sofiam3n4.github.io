@@ -102,3 +102,25 @@ header span{
     position: relative;
     z-index: 2;
 }
+
+.bg-body-tertiary .bi{
+    color: #6d597a;
+    font-size: 250%;
+}
+
+
+.footer .bi{
+    color: white;
+    font-size: 160%;
+}
+.footer .bi:hover{
+    color: #e56b6f;
+}
+
+footer{
+    background-color: #6d597a;
+}
+
+footer p{
+    color: white;
+}
